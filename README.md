@@ -1,6 +1,8 @@
 # Delay-Reverb-Time-Calculator-M4L-Device
 A Max for Live device that displays BPM-synced delay and reverb times inside Ableton Live.
 
+To download, click the 'Download raw file' button.
+
 Overview
 Stop switching between your DAW and a browser calculator. This device syncs to Live's transport via plugsync~ and shows you the exact millisecond values you need — right in your device chain.
 
